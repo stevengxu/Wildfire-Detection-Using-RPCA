@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:xalan="http://xml.apache.org/xalan" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gml="http://www.opengis.net/gml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.isotc211.org/2005/gmd">
+    <language>
+        <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+    </language>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp>
+        <gco:Date>2017-12-08</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <spatialRepresentationInfo>
+        <MD_VectorSpatialRepresentation>
+            <topologyLevel>
+                <MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+            </topologyLevel>
+            <geometricObjects>
+                <MD_GeometricObjects>
+                    <geometricObjectType>
+                        <MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+                    </geometricObjectType>
+                </MD_GeometricObjects>
+            </geometricObjects>
+        </MD_VectorSpatialRepresentation>
+    </spatialRepresentationInfo>
+    <referenceSystemInfo>
+        <MD_ReferenceSystem>
+            <referenceSystemIdentifier>
+                <RS_Identifier>
+                    <code>
+                        <gco:CharacterString>4269</gco:CharacterString>
+                    </code>
+                    <codeSpace>
+                        <gco:CharacterString>EPSG</gco:CharacterString>
+                    </codeSpace>
+                    <version>
+                        <gco:CharacterString>6.12(3.0.1)</gco:CharacterString>
+                    </version>
+                </RS_Identifier>
+            </referenceSystemIdentifier>
+        </MD_ReferenceSystem>
+    </referenceSystemInfo>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>baselayer.web_apps_rw.GEOMAC_PERIMETERS_DD83</gco:CharacterString>
+                    </title>
+                    <date gco:nilReason="missing"/>
+                    <presentationForm>
+                        <CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+                    </presentationForm>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>The Geospatial Multi-Agency Coordination Group, or GeoMAC, is an internet-based mapping tool originally designed for fire managers to access online maps of current fire locations and perimeters in the conterminous 48 states and Alaska. Perimeters are submitted to GeoMAC by field offices. The GeoMAC team attributes the perimeters using the IRWIN (Integrated Reporting of Wildland-Fire Information) system, and then posts them on the GeoMAC website and to an HTTP site for downloading. This file contains all fire perimeters that were submitted to GeoMAC by field offices for the current year. The projection is geographic and the datum is NAD83.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>This geospatial dataset contains wildfire perimeter data for use in the GeoMAC application.</gco:CharacterString>
+            </purpose>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Downloadable Data</gco:CharacterString>
+                    </keyword>
+                    <thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66"/>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildfire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Wildland Fire</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Historic Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMAC Perimeters</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>GeoMac</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>HistoricWildfires_OpenData</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>2019</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>historicwildfires_opendata</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Perimeter data in this geospatail dataset is not the final or official perimeter for any incident and is provided for informational purposes only. The final official perimeter should be obtained from the host unit which can be determined by looking at the Unit Id for any specific fire. The host unit is responsible for producing official and final perimeters for all incidents in their jurisdiction.</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <spatialRepresentationType>
+                <MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+            </spatialRepresentationType>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <environmentDescription>
+                <gco:CharacterString> Version 6.2 (Build 9200) ; Esri ArcGIS 10.5.1.7333</gco:CharacterString>
+            </environmentDescription>
+            <extent>
+                <EX_Extent>
+                    <geographicElement>
+                        <EX_GeographicBoundingBox>
+                            <extentTypeCode>
+                                <gco:Boolean>true</gco:Boolean>
+                            </extentTypeCode>
+                            <westBoundLongitude>
+                                <gco:Decimal>-156.62243</gco:Decimal>
+                            </westBoundLongitude>
+                            <eastBoundLongitude>
+                                <gco:Decimal>-79.452</gco:Decimal>
+                            </eastBoundLongitude>
+                            <southBoundLatitude>
+                                <gco:Decimal>25.462012</gco:Decimal>
+                            </southBoundLatitude>
+                            <northBoundLatitude>
+                                <gco:Decimal>66.474621</gco:Decimal>
+                            </northBoundLatitude>
+                        </EX_GeographicBoundingBox>
+                    </geographicElement>
+                </EX_Extent>
+            </extent>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat>
+                <MD_Format>
+                    <name>
+                        <gco:CharacterString>Feature Class</gco:CharacterString>
+                    </name>
+                    <version gco:nilReason="missing"/>
+                </MD_Format>
+            </distributionFormat>
+            <distributor>
+                <MD_Distributor>
+                    <distributorContact gco:nilReason="missing"/>
+                    <distributorFormat>
+                        <MD_Format>
+                            <name>
+                                <gco:CharacterString>Feature Class</gco:CharacterString>
+                            </name>
+                            <version gco:nilReason="missing"/>
+                        </MD_Format>
+                    </distributorFormat>
+                    <distributorTransferOptions>
+                        <MD_DigitalTransferOptions/>
+                    </distributorTransferOptions>
+                </MD_Distributor>
+            </distributor>
+        </MD_Distribution>
+    </distributionInfo>
+</MD_Metadata>
