@@ -19,7 +19,7 @@ masking approach based on T-point thresholdingis also proposed to reduce false a
 Compared to exist-ing methods, our proposed method adapts to the spatial andtemporal 
 heterogeneity of satellite images,  does not requiretraining on labeled images, 
 and is computationally efficientfor online monitoring.  We present an application 
-of our pro-posed algorithm to the GOES-R imagery in monitoring recentCalifornia wildfires.
+of our pro-posed algorithm to the GOES-R imagery in monitoring recent California wildfires.
 
 
 ## Reference
