@@ -30,7 +30,7 @@ Also available at [link](https://stevengxu.github.io/projects/Wildfire_IGARSS.pd
 
 1. Implementation
 
-   This well-documented [notebook](./notebook/Unsupervised_Wildfire_Detection_Using_GOES-16_Imagery.ipynb) provides a Python 
+   This well-documented [notebook](https://nbviewer.jupyter.org/github/stevengxu/Wildfire-Detection-Using-RPCA/blob/main/notebook/Unsupervised_Wildfire_Detection_Using_GOES-16_Imagery.ipynb) provides a Python 
    pipeline for wildfire detection using the proposed method.
 
 2. Fire Perimeter
