@@ -4,6 +4,8 @@
 
 # Wildfire Detection Using Streaming Satellite Imagery
 
+![](./figures/kincade_map_screenshot.png)
+
 </div>
 
 ## Abstract
