@@ -14,8 +14,8 @@
 
 We propose a novel wildfire detection algorithm for multispectral satellite images. 
 By observing that wildfire pixels aresparse outliers residing in a spatially correlated 
-background,we isolate them using robust principal component analysis. Anovel cloud 
-masking approach based on T-point thresholdingis also proposed to reduce false alarms.  
+background,we isolate them using robust principal component analysis. A novel cloud 
+masking approach based on T-point thresholdingis also proposed to reduce false alarms. 
 Compared to exist-ing methods, our proposed method adapts to the spatial andtemporal 
 heterogeneity of satellite images,  does not requiretraining on labeled images, 
 and is computationally efficientfor online monitoring.  We present an application 
