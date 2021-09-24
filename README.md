@@ -5,7 +5,7 @@
 # Wildfire Detection Using Streaming Satellite Imagery
 
 <figure class="image">
-<img src="./figures/kincade_map_screenshot.png" alt="drawing" style="width:400px;"/>
+<img src="./figures/kincade_map_screenshot.png" alt="drawing" style="width:600px;"/>
 </figure>
 
 </div>
