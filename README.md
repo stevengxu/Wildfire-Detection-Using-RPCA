@@ -18,7 +18,7 @@ and is computationally efficientfor online monitoring.  We present an applicatio
 of our pro-posed algorithm to the GOES-R imagery in monitoring recentCalifornia wildfires.
 
 
-## Refernce
+## Reference
 
 Xu, S. G., Kong, S., & Asgharzadeh, Z. (2021, July). Wildfire Detection Using Streaming Satellite Imagery. 
 In 2021 IEEE International Symposium on Geoscience and Remote Sensing. IEEE.
