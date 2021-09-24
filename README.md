@@ -27,7 +27,7 @@ of our pro-posed algorithm to the GOES-R imagery in monitoring recentCalifornia 
 Xu, S. G., Kong, S., & Asgharzadeh, Z. (2021, July). Wildfire Detection Using Streaming Satellite Imagery. 
 In 2021 IEEE International Symposium on Geoscience and Remote Sensing. IEEE.
 
-Also available at [link](https://stevengxu.github.io/projects/Wildfire_IGARSS.pdf).
+Also available [here](https://stevengxu.github.io/projects/Wildfire_IGARSS.pdf).
 
 
 ## Files
