@@ -2,7 +2,7 @@
   align="center"
 >
 
-# Wildfire Detection Using Streaming Satellite Imagery
+# :fire: Wildfire Detection Using Streaming Satellite Imagery
 
 <figure class="image">
 <img src="./figures/kincade_map_screenshot.png" alt="drawing" style="width:600px;"/>
