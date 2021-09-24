@@ -30,11 +30,11 @@ Also available at [link](https://stevengxu.github.io/projects/Wildfire_IGARSS.pd
 
 1. Implementation
 
-This well-documented [notebook](./notebook/Unsupervised_Wildfire_Detection_Using_GOES-16_Imagery.ipynb) provides a Python 
-pipeline for wildfire detection using the proposed method.
+   This well-documented [notebook](./notebook/Unsupervised_Wildfire_Detection_Using_GOES-16_Imagery.ipynb) provides a Python 
+   pipeline for wildfire detection using the proposed method.
 
 2. Fire Perimeter
 
-The **Historic_GeoMAC_Perimeters_2019** folder contains files that store the fire perimeters of major U.S. wildfires in 2019.
-In particular **US_HIST_FIRE_PERIM_2019_dd83.shp** can be used to extract the GIS shape records and **Historic_GeoMAC_Perimeters_2019**
-can be used to find the index for each fire perimeter of interest.
+   The **Historic_GeoMAC_Perimeters_2019** folder contains files that store the fire perimeters of major U.S. wildfires in 2019.
+   In particular **US_HIST_FIRE_PERIM_2019_dd83.shp** can be used to extract the GIS shape records and **Historic_GeoMAC_Perimeters_2019**
+   can be used to find the index for each fire perimeter of interest.
